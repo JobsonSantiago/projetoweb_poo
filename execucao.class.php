@@ -19,7 +19,7 @@ class Carros {
         echo $porsche->getCor();
 
         // Passar um valor para o método setPlaca
-        $porsche->setPlaca("<b>Cor:</b> MHZ-4345 </br>");
+        $porsche->setPlaca("<b>Placa:</b> MHZ-4345 </br>");
         //imprimir um valor do metodo getPlaca
         echo $porsche->getPlaca();
 
